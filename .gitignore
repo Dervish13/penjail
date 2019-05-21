@@ -9,3 +9,5 @@ cbsd.conf
 site.retry
 vars.mk
 binaries/*
+ZAP_2.7.0/*
+code/*
